@@ -1,0 +1,10 @@
+{
+  "name": "web-frontend-learning",
+  "version": "1.0.0",
+  "description": "Learning web front end Typescript React Redux Cypress Yarn",
+  "main": "index.js",
+  "repository": "https://github.com/dancarpenter21/web-frontend-learning.git",
+  "author": "Dan C",
+  "license": "Unilicense",
+  "private": false
+}
